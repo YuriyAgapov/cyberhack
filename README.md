@@ -1,6 +1,6 @@
 # Cyberhack
 
-![Cyberhack preview](https://github.com/YuriyAgapov/cyberhack/tree/master/media/cyberhack_preview.gif)
+![Cyberhack preview](https://github.com/YuriyAgapov/cyberhack/blob/master/media/cyberhack_preview.gif)
 
 ## Описание
 Это мод для Cyberpunk 2077, который распознает на экране монитора миниигру "Взлом протокола" и подсвечивает оптимальный вариант решения головоломки.
