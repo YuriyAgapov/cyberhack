@@ -12,8 +12,8 @@
 * CyberEngineTweaks (https://wiki.redmodding.org/cyber-engine-tweaks/)
 
 Установить переменные окружения:
-* CMDS_FILENAME=<path to Cyberpunk 2077>\bin\x64\plugins\cyber_engine_tweaks\mods\clickmap.txt
-* PATH=%PATH%;<path to Tesseract-OCR>
+* CMDS_FILENAME=path to Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\clickmap.txt
+* PATH=%PATH%;path to Tesseract-OCR
 
 Содержимое cyberhack\ui поместить в <path to Cyberpunk 2077>\bin\x64\plugins\cyber_engine_tweaks\mods.
 
