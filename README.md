@@ -21,8 +21,9 @@
 
 3. Содержимое cyberhack\ui поместить в <path to Cyberpunk 2077>\bin\x64\plugins\cyber_engine_tweaks\mods.
 
-4. Установить ависимости сценария на Python:
+4. Установить зависимости Python сценария:
    ```
+   cd <path to cyberhack>\core
    pip install -r requirements.txt
    ```
 6. Запустить cyberhack_core.py.
