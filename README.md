@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://youtu.be/4pm9us14dKw" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/YuriyAgapov/cyberhack/blob/master/media/cyberhack_preview.gif">
-  </a>
+  </a><br>
 </p>
 
 ## Описание
