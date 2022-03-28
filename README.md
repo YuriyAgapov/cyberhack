@@ -1,7 +1,9 @@
 # Cyberhack
 
 <p align="center">
-  <img src="https://github.com/YuriyAgapov/cyberhack/blob/master/media/cyberhack_preview.gif">
+  <a href="https://youtu.be/4pm9us14dKw">
+    <img src="https://github.com/YuriyAgapov/cyberhack/blob/master/media/cyberhack_preview.gif">
+  </a>
 </p>
 
 ## Описание
