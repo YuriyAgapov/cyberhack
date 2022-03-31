@@ -19,7 +19,7 @@ hack_mode_timeout = 0.1
 fps_mode_timeout = 1.0
 
 # params of screen
-monitor_number = 2
+monitor_number = os.getenv('MON_NUMBER', 2)
 screen = mss.mss()
 monitor_info = screen.monitors[monitor_number]
 screen_width = monitor_info["width"]
