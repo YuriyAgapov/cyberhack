@@ -18,6 +18,7 @@
 2. Установить переменные окружения:
 * CMDS_FILENAME=path to Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\clickmap.txt
 * PATH=%PATH%;path to Tesseract-OCR
+* MON_NUMBER=1 (номер монитора)
 
 3. Содержимое cyberhack\ui поместить в <path to Cyberpunk 2077>\bin\x64\plugins\cyber_engine_tweaks\mods.
 
@@ -26,9 +27,9 @@
    cd <path to cyberhack>\core
    pip install -r requirements.txt
    ```
-6. Запустить cyberhack_core.py.
+5. Запустить cyberhack_core.py.
 
-5. Запустить игру.
+6. Запустить игру.
 
 ## Как это работает?
 Мод состоит из двух частей: сценария на python - решает головоломку, мод для CyberEngineTweaks - cyberhack-layer - отображает решение во внутри игровом оверлее.
